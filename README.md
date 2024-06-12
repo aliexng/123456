@@ -26,7 +26,7 @@
   </tr>  
 </table><br>
 
-<img src="1.jpg"></img>
+<img src="Gundam-00-mobile-suit-gundam-00-20740668-1680-1050.jpgGundam-00-mobile-suit-gundam-00-20740668-1680-1050.jpg"></img>
 <!--
 **yckoincgu/yckoincgu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
